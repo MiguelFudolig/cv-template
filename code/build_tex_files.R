@@ -12,7 +12,7 @@ library(magrittr) # pipe and extract2()
 library(googlesheets4) # API access
 
 # Update to match your info
-sheet_link <- "https://docs.google.com/spreadsheets/d/11S8-U4vasXgPbW-IKQPCy1nO-1UsmvzNLz7GvdONN_w/edit#gid=389960622"
+sheet_link <- "https://docs.google.com/spreadsheets/d/1hMu_46xMFWfKMF6oRlC9I9JDgKuFmMINbm4R4Z3r3OM/edit#gid=2002705318"
 talk_order <- c("Invited", "Contributed", "Seminars")
 grant_order <- c("Under Review", "Funded", "Not Funded")
 service_order <- c("discipline", "institution", "department")
